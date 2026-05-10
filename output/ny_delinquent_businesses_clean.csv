@@ -1,0 +1,89 @@
+rank,company_name,tax_type,amount,balance,filed_date,county,state,source,source_url,scraped_at
+3,ZAHMEL RESTAURANT SUPPLIES CORP. TRADING AS CASH & CARRY FOODS,Sales and,13526041.49,13526041.49,Jan,NASSAU,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.044732
+5,WOODSIDE MANAGEMENT INC.,Corporation,34577.51,6332907.5,Nov,QUEENS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.055284
+5,WOODSIDE MANAGEMENT INC.,Taxicab,36278.48,6332907.5,Jul,QUEENS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.065656
+5,WOODSIDE MANAGEMENT INC.,Taxicab,39664.95,6332907.5,Jul,QUEENS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.076898
+6,GLOBAL ENERGY EFFICIENCY HOLDINGS INC.,Corporation,6412.5,6012207.86,Oct,ONONDAGA,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.076926
+7,TAKARA INDUSTRY CORPORATION,Corporation,1510857.38,5766891.77,May,NEW YORK,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.076948
+10,"RCI PLBG, INC.",Corporation,13059.5,4599095.52,Jan,RICHMOND,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.087895
+11,TEN UNDERSCORES LLC TRADING AS INTENTIONALLY BLANK,Sales and,3932853.71,3932853.71,Dec,COLUMBIA,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.087925
+15,TRIANGLE AUTO INC.,Sales and,1137.01,3582753.13,May,KINGS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.087947
+16,"HAWK CONTRACTING OF NY, INC.",Corporation,701.19,3227567.54,Sep,KINGS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.087967
+16,"HAWK CONTRACTING OF NY, INC.",Sales and,,,,,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.098515
+17,RACK OIL CORP.,Corporation,1662.73,3196587.24,Oct,KINGS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.098538
+18,"SHAWN MCKEE ENTERPRISES, INC.",Sales and,1932490.74,2945708.86,Dec,SUFFOLK,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.098565
+18,"SHAWN MCKEE ENTERPRISES, INC.",Sales and,,,,,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.108903
+19,"TUNNEL TAXI MANAGEMENT, LLC",Corporation,5758.15,2853046.52,Feb,QUEENS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.108925
+19,"TUNNEL TAXI MANAGEMENT, LLC",Taxicab,33510.01,2853046.52,May,NEW YORK,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.119537
+22,VALLEY AUTO REPAIR LLC,Sales and,2622485.2,2659201.08,Feb,DUTCHESS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.131135
+23,"F.A. USA GROUP, INC.",Sales and,2583913.8,2583913.8,May,RICHMOND,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.131163
+24,SMALLBONE INC.,Sales and,2573179.59,2577561.79,Aug,NEW YORK,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.131182
+25,COMPLETE RENOVATION & CONTRACTING CORP,Sales and,2527228.66,2527228.66,Jul,BRONX,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.131204
+26,"R.H. STENECK SERVICES, INC.",Sales and,,,,,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.131217
+28,"JAM JUICE VAPE SHOP, INC.",Sales and,116000.0,2102118.84,Apr,QUEENS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.141863
+29,"ROTAVELE ELEVATOR, INC. TRADING AS CONTRACTOR SERVICES",Sales and,2057947.12,2057947.12,Sep,QUEENS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.141887
+30,"DANBERG ENTERPRISES, INC. TRADING AS ARSENAL CITY TAVERN",Sales and,1936985.38,2046374.0,Jan,ALBANY,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.141909
+31,"AGL INDUSTRIES, INC.",Corporation,139981.44,2034028.24,Sep,QUEENS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.141929
+32,S & J INDUSTRIAL CORP.,Corporation,1356.51,2019912.5,Sep,QUEENS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.141951
+32,S & J INDUSTRIAL CORP.,Withholding,1303487.67,2019912.5,Mar,QUEENS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.153085
+34,ROMA FLI CORP.,Corporation,2874.36,1871915.14,Apr,SUFFOLK,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.153111
+35,"EXECUTIVE AUTO REPAIR II, INC.",Corporation,3924.09,1682435.58,May,NASSAU,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.153131
+36,AVERY AUTO TRADING AS TRIANGLE COLLISION,Sales and,1511948.97,1511948.97,Nov,KINGS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.153153
+37,NEW HORIZON AUTOMOTIVE INC,Sales and,237121.1,1481907.57,Feb,KINGS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.153172
+39,ROMA NEW YORK INC. TRADING AS ROMA FURNITURE,Sales and,1454651.1,1454651.1,Apr,SUFFOLK,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.153194
+40,BABYBJORN INC.,Sales and,,,,,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.153199
+41,"GIBRALTAR CONTRACTING, INC.",Corporation,2119.5,1444591.54,Mar,BRONX,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.153218
+41,"GIBRALTAR CONTRACTING, INC.",Withholding,263857.81,1444591.54,Aug,BRONX,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.165581
+42,"ANIMAL KINGDOM BREWSTER, INC. TRADING AS ANIMAL KINGDOM USA",Corporation,608.5,1397953.39,Dec,PUTNAM,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.165618
+42,"ANIMAL KINGDOM BREWSTER, INC.",Sales and,,,,,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.176298
+44,ALTER NATIVE RETAIL LLC,Sales and,1193961.44,1338221.54,May,NEW YORK,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.176327
+45,"GRIFFIN SECURITY SERVICES, INC.",Corporation,2632.13,1292578.69,Mar,BRONX,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.176347
+47,INDIGO WILLIAMSBURG HM LLC TRADING AS INDIGO HOTEL WILLIAMSBURG BROOKLYN,Sales and,341431.79,1257079.95,Dec,KINGS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.186354
+48,"ARTEX SYSTEMS, INC.",Corporation,37539.62,1230035.55,Oct,ALBANY,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.186375
+49,INS CONSTRUCTION CORP,Corporation,1222561.44,1222561.44,May,KINGS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.186398
+50,ITRADENETWORK INC TRADING AS ITRADE NETWORK,Sales and,1208629.68,1208629.68,Jul,ALBANY,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.186419
+51,"L'ADRESSE, LLC",Sales and,487565.97,1206444.54,Aug,NEW YORK,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.186437
+52,"SWIFTY'S RESTAURANT AND PUB, INC. TRADING AS SWIFTY'S RESTAURANT & PUB",Sales and,431707.14,1206009.67,Feb,ALBANY,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.186460
+53,CABA DESIGN CORP,Sales and,,,,,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.197427
+55,"PITA GRILL MURRAY HILL, LLC",Sales and,7126.5,1148076.38,Nov,NEW YORK,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.197456
+58,RHCG SAFETY CORP.,Corporation,106.42,1134039.95,Aug,SUFFOLK,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.197479
+59,TRISTATE AUTO SERVICE CENTER INC,Sales and,1094499.54,1094499.54,Apr,KINGS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.197502
+61,STANDARD AMUSEMENTS LLC,Sales and,,,,,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.208250
+62,CORNHILL LIQUORS LLC,Sales and,27432.24,1074663.88,Sep,MONROE,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.208276
+63,SOUNDVIEW PETROLEUM INC.,Sales and,104949.79,1049030.35,Aug,BRONX,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.208300
+64,"CPV STATEN ISLAND, INC. TRADING AS MONTALBANOS OF ROSEBANK",Sales and,1045903.63,1045903.63,May,RICHMOND,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.208324
+65,BAR LIFE INC.,Sales and,97269.94,1005750.41,Oct,KINGS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.208342
+66,"BARRAJA, INC.",Corporation,674.16,1002196.14,Jul,NEW YORK,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.208359
+23,INNOVATIONS INC.,Sales and,17.0,254389.81,Apr,NEW YORK,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.208376
+23,INNOVATIONS INC.,Withholding,16.0,13383.51,Apr,NEW YORK,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.219589
+68,SKY MATERIALS CORP.,Corporation,12905.88,991116.71,Nov,KINGS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.219611
+69,BEDNARK STUDIO INC.,Corporation,6751.24,982624.25,Dec,KINGS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.219629
+70,SECURE GREEN INC.,Corporation,716.05,980930.2,Jun,KINGS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.219647
+73,JH WINE & LIQUOR CORP,Corporation,2463.94,956763.37,May,NEW YORK,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.230494
+74,GRAND AUTOMOTIVE INC. TRADING AS PLANET MITSUBISHI,Sales and,,,,,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.230526
+75,MARACAS CLUB AND RESTAURANT LLC,Corporation,50.0,922273.55,Jul,QUEENS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.230544
+75,MARACAS CLUB AND RESTAURANT LLC,Corporation,2414.1,922273.55,Oct,QUEENS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.241234
+76,CHESTER STREET COLLISION INC.,Corporation,2770.35,921490.65,Jun,KINGS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.241265
+77,NYC MOTORCARS OF FREEPORT CORP. TRADING AS ZERO DOWN AUTO,Sales and,588650.64,918459.48,Jul,NASSAU,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.241288
+78,"SRGL, INC. TRADING AS SWIFTY'S RESTAURANT AND PUB",Sales and,425991.63,910349.71,Feb,ALBANY,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.241310
+79,"PNEUCO, INC.",Corporation,151.31,903596.29,Jan,ERIE,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.241327
+81,PENNKRAFT BUILDING SYSTEMS LLC,Sales and,250.0,899104.23,Oct,ALBANY,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.252591
+83,FAT BOYS PIZZA INC.,Corporation,2818.94,895891.68,Mar,ONTARIO,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.252618
+85,FA & PARTNERS INC.,Sales and,888895.01,888895.01,May,RICHMOND,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.263583
+86,WIPE IT DOWN COMMERCIAL CLEANING INC.,Corporation,1521.94,883340.56,Nov,MONROE,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.263604
+87,HEAT CARIBBEAN KITCHEN & LOUNGE INC,Sales and,9677.01,873249.22,Aug,QUEENS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.263625
+88,GIULIA SALUMERIA CORP. TRADING AS MONTALBANOS ITALIAN FOOD SPECIALITIES,Corporation,2913.58,864090.81,May,RICHMOND,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.263649
+89,"FARGO'S FAMILY MARKET, LLC",Sales and,,,,,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.263673
+90,M & M PIO RESTAURANT LLC TRADING AS POLLO D'ORO,Sales and,,,,,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.275587
+91,TZILA ZEV REALTY TRADING AS TRIANGLE AUTO BODY,Sales and,839062.23,839062.23,Sep,KINGS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.275615
+92,GARTECH ELECTRICAL CONTRACTING CORP.,Corporation,3358.1,835742.93,Nov,KINGS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.275635
+92,GARTECH ELECTRICAL CONTRACTING CORP.,Withholding,7755.22,835742.93,Aug,KINGS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.286521
+93,"COUNTER INTELLIGENCE, INCORPORATED",Corporation,823.06,795668.3,Jun,ALBANY,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.286543
+94,"TASTE OF THAI EXPRESS, INC.",Sales and,101537.84,778328.24,Oct,TOMPKINS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.286565
+95,EMERALD DRYWALL FINISHING CORP.,Corporation,1630.84,777406.15,Feb,ALBANY,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.286585
+96,HITEN INTERNATIONAL INC.,Corporation,2870.88,759372.12,Apr,QUEENS,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.286605
+97,"NORTHEAST LANDSCAPE & MASONRY ASSOCIATES, INC.",Corporation,4831.79,759122.44,Feb,WESTCHESTER,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.297420
+98,"JOE'S FRIENDLY SERVICE & SON, INC.",Corporation,2405.46,749130.53,Mar,SUFFOLK,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.297445
+99,ROCKWELL MAINTENANCE LLC,Sales and,591475.46,733777.96,Jan,ALBANY,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.297467
+100,GOLD LEAF SECURITY INC.,Corporation,1544.69,732787.56,Dec,NASSAU,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.297486
+100,GOLD LEAF SECURITY INC.,Sales and,,,,,NY,NY State Tax Department,https://www.tax.ny.gov/pdf/enforcement/delinquent_taxpayers_businesses.pdf,2026-04-11T15:28:50.305724
