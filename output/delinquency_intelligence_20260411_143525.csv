@@ -1,0 +1,3 @@
+company_name,amount_owed,delinquency_type,state,city,address,years_owed,source_url,sp500_match,industry,risk_score,scraped_at
+City of Olean Utility Data,0,utility_water_sewer,NY,Olean,,,https://cityofolean.gov/departments/public-works/dpw-delinquent-water-sewer-reports,True,Industrials,critical,2026-04-11T14:35:24.963203
+City of Olean Utility Data,0,utility_water_sewer,NY,Olean,,,https://cityofolean.gov/departments/public-works/dpw-delinquent-water-sewer-reports,True,Industrials,critical,2026-04-11T14:35:24.963218
